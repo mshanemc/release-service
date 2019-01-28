@@ -1,0 +1,13 @@
+{
+  "orgName": "release-service",
+  "template": "0TTB0000000aO0Z",
+  "orgPreferences": {
+    "enabled": [
+      "S1DesktopEnabled",
+      "PathAssistantsEnabled"
+    ],
+    "disabled": [
+      "S1EncryptedStoragePref2"
+    ]
+  }
+}
